@@ -1,0 +1,11 @@
+package com.example.demo.bean;
+
+public class po,iymutrbew {
+private Integer empId;
+	
+	private String empName;
+	
+	private Integer age;
+
+
+}

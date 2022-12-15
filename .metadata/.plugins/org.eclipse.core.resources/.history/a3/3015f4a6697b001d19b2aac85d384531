@@ -1,0 +1,12 @@
+package com.example;
+
+public class JavaToJsonConvertor {
+
+	public static void main(String[] args) {
+		Book book=new Book();
+		book.setBookId(101);
+		
+
+	}
+
+}
