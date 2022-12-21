@@ -1,7 +1,0 @@
-package com.example.demo.response;
-
-public class Book {
-	
-	private Integer
-
-}

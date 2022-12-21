@@ -1,10 +1,8 @@
 package com.example.demo.response;
 
-import java.io.Serializable;
-
 import javax.xml.bind.annotation.XmlRootElement;
 
- @XmlRootElement
+@XmlRootElement
 public class Book {
 	
 	public Book() {
