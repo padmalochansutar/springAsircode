@@ -1,8 +1,11 @@
 package com.example.model;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
 import lombok.Data;
 
 @Data
+@XmlRootElement
 public class TicketResponse {
 	private String name;
 	private String dob;
