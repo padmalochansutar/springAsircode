@@ -12,6 +12,8 @@ import com.example.request.Passengerinfo;
 
 @RestController
 public class AirIndiaRestController {
+	
+	
 	@PostMapping( value="/bookFlightTicket",consumes = {"application/json","application/xml"},
 			produces = {"application/xml","application/json"})
 	public ResponseEntity<Ticketinfo> bookTicket(@RequestBody Passengerinfo pinfo){

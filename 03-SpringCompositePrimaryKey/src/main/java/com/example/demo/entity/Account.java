@@ -15,7 +15,7 @@ public class Account {
 	private String branchName;
     private Double minBal;
     
-//    private AccountPK accountPK;
+    //private AccountPK accountPK;
    @Id  
    private Integer accId;
    @Id 

@@ -27,7 +27,7 @@ public class AccountService {
 		account.setBranchName("HDFC");
 		account.setMinBal(50000.00);
 		//account.setAccountPK(ac);
-		account.setAccId(102);
+		account.setAccId(104);
 		account.setAccType("Saving");
 		account.setAccHolderName("IBM");
 		accountRepository.save(account);
